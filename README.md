@@ -3,7 +3,7 @@
 ![Image](https://github.com/user-attachments/assets/e455773e-5ea1-455f-b4fe-8237993c208b)
 
 ## 📖 Description
-I built a sample websit with HTML and CSS.
+...
 --
 
 - [Demo Project](https://saeeddavoodi-dev.github.io/first-project/)

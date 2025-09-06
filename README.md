@@ -3,10 +3,10 @@
 ![Image](https://github.com/user-attachments/assets/e455773e-5ea1-455f-b4fe-8237993c208b)
 
 ## 📖 Description
-I built a vertical navigation menu with HTML and CSS.
+I built a sample websit with HTML and CSS.
 --
 
-- [Demo Project](https://saeeddavoodi-dev.github.io/Menu/)
+- [Demo Project](https://saeeddavoodi-dev.github.io/first-project/)
 
 ---
 
@@ -18,7 +18,7 @@ I built a vertical navigation menu with HTML and CSS.
 
 - Developed by SAEED DAVOODI
 
-- Created - 2025-08-29
+- Created - 2025-09-06
 
 - Role - Frontend
 

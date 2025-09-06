@@ -1,4 +1,4 @@
-# 🎯 first project- built websit
+# 🎯 first project
 
 ![Image](https://github.com/user-attachments/assets/e455773e-5ea1-455f-b4fe-8237993c208b)
 
